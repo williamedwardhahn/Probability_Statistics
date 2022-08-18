@@ -12,3 +12,6 @@
 ## References
 
 https://www.fourmilab.ch/rpkp/experiments/statistics.html
+
+
+<!--https://www.machinelearningplus.com/plots/matplotlib-histogram-python-examples/-->
