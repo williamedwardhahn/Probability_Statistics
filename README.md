@@ -1,6 +1,6 @@
 # Probability and Statistics
 
-<img src='https://physicsopenlab.org/wp-content/uploads/2017/05/particleMist.jpg'>
+<img src='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/a1fb2500-4b94-4896-a8c7-a39d72ff3a1e.webp'>
 
 ## Weekly Lab Reports
 
