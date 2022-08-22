@@ -23,4 +23,6 @@ https://www.visual-design.net/post/an-interactive-guide-to-hypothesis-testing-in
 https://machinelearningmastery.com/use-statistical-significance-tests-interpret-machine-learning-results/
 https://www.pluralsight.com/guides/interpreting-data-using-descriptive-statistics-python
 https://www.section.io/engineering-education/statistical-hypothesis-testing-python-implementation/
+
+https://www.statology.org/hypothesis-test-python/
 -->
