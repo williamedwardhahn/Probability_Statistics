@@ -6,6 +6,8 @@
 
 ## Weekly Lab Reports
 
+[Random Numbers](https://colab.research.google.com/drive/1XhCdRrcOC5T34q8TGmtTnuKqXCS6q4vO?usp=sharing)
+
 ## Midterm Project
 
 ## Final Project
