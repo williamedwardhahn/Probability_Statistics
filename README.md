@@ -1,5 +1,7 @@
 # Probability and Statistics
 
+<a href="https://docs.google.com/document/d/1QRIVGQkuSMpC1QqYocXCLAvoBa_fUqKdLYvdIpcgTv4/edit?usp=sharing">Syllabus</a>
+
 <img src='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/a1fb2500-4b94-4896-a8c7-a39d72ff3a1e.webp'>
 
 ## Weekly Lab Reports
