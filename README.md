@@ -9,7 +9,7 @@
 ## Weekly Lab Reports
 
 [Lab #1](https://colab.research.google.com/drive/1d5oOeda9yEklbWgchnf0DlztTANeOJdx?usp=sharing)
-
+[Lab #2](https://colab.research.google.com/drive/1_DFeioN0leaejbxzFZMsqPTTUDDcNY-D?usp=sharing)
 
 ## Midterm Project
 
