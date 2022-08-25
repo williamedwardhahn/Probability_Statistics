@@ -8,7 +8,8 @@
 
 ## Weekly Lab Reports
 
-[Random Numbers](https://colab.research.google.com/drive/1XhCdRrcOC5T34q8TGmtTnuKqXCS6q4vO?usp=sharing)
+[Lab #1](https://colab.research.google.com/drive/1d5oOeda9yEklbWgchnf0DlztTANeOJdx?usp=sharing)
+
 
 ## Midterm Project
 
@@ -21,6 +22,9 @@
 
 
 <!--
+
+[Random Numbers](https://colab.research.google.com/drive/1XhCdRrcOC5T34q8TGmtTnuKqXCS6q4vO?usp=sharing)
+
 
 https://www.machinelearningplus.com/plots/matplotlib-histogram-python-examples/
 
