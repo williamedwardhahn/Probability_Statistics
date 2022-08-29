@@ -24,6 +24,8 @@
 
 <!--
 
+https://towardsdatascience.com/introduction-to-image-processing-with-python-color-channel-histogram-manipulation-for-beginners-d1d77dcb998d
+
 https://mpatacchiola.github.io/blog/2016/11/12/the-simplest-classifier-histogram-intersection.html
 
 https://www.askpython.com/python/visualizing-colors-in-images
