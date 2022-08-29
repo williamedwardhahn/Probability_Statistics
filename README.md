@@ -26,7 +26,9 @@
 
 https://mpatacchiola.github.io/blog/2016/11/12/the-simplest-classifier-histogram-intersection.html
 
+https://www.askpython.com/python/visualizing-colors-in-images
 
+https://medium.com/@rndayala/image-histograms-in-opencv-40ee5969a3b7
 
 
 [Random Numbers](https://colab.research.google.com/drive/1XhCdRrcOC5T34q8TGmtTnuKqXCS6q4vO?usp=sharing)
