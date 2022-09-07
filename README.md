@@ -10,15 +10,16 @@
 
 [Lab #1](https://colab.research.google.com/drive/1d5oOeda9yEklbWgchnf0DlztTANeOJdx?usp=sharing)
 
-
-
 [Lab #2](https://colab.research.google.com/drive/1_DFeioN0leaejbxzFZMsqPTTUDDcNY-D?usp=sharing)
 
+[Lab #3](https://colab.research.google.com/drive/1hoXOTwh-hGpkf4mciIRRm2gyoWRbi38M?usp=sharing)
 
 
-
-[Lab #3](https://colab.research.google.com/drive/1zYvyhrz2wVnJXlZqj_PpxOxplfS3LN9Y?usp=sharing)
 <!--
+[Lab #4](https://colab.research.google.com/drive/1zYvyhrz2wVnJXlZqj_PpxOxplfS3LN9Y?usp=sharing)
+
+[Lab #5](https://colab.research.google.com/drive/1rJRIIInVtzyxwtDAyan7_9BarmKXWgFm?usp=sharing)
+
 -->
 
 ## Midterm Project
