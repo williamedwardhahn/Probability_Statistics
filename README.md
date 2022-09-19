@@ -6,7 +6,14 @@
 
 <a href="https://docs.google.com/presentation/d/1COH0Uw0WESF4N35YohjlGY8OaNd19gYZeFL5KIRHHX8/edit?usp=sharing">Slides</a>
 
-## Weekly Lab Reports
+## Tutorial Videos
+
+[How to Plot a Linear Function](https://youtube.com/shorts/Z7wUkSXD2zI?feature=share)
+[How to Plot a Sin Wave]https://youtube.com/shorts/AZkgnf8pvHc?feature=share
+[How to Resize Images](https://youtube.com/shorts/_io-NzBaSpU?feature=share)
+
+
+## Lab Reports
 
 [Lab #1](https://colab.research.google.com/drive/1d5oOeda9yEklbWgchnf0DlztTANeOJdx?usp=sharing)
 
