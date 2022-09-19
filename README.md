@@ -9,7 +9,9 @@
 ## Tutorial Videos
 
 [How to Plot a Linear Function](https://youtube.com/shorts/Z7wUkSXD2zI?feature=share)
-[How to Plot a Sin Wave]https://youtube.com/shorts/AZkgnf8pvHc?feature=share
+
+[How to Plot a Sin Wave]https://youtube.com/shorts/AZkgnf8pvHc?feature=share)
+
 [How to Resize Images](https://youtube.com/shorts/_io-NzBaSpU?feature=share)
 
 
