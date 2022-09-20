@@ -6,6 +6,9 @@
 
 <a href="https://docs.google.com/presentation/d/1COH0Uw0WESF4N35YohjlGY8OaNd19gYZeFL5KIRHHX8/edit?usp=sharing">Slides</a>
 
+## Project Ideas Video 
+[I am AI](https://www.youtube.com/playlist?list=PLWmIsQcAzRkpRUWZLnqXFTuybUJ06bCJh)
+
 ## Tutorial Videos
 
 [How to Plot a Linear Function](https://youtube.com/shorts/Z7wUkSXD2zI?feature=share)
