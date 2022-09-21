@@ -29,9 +29,9 @@
 
 
 [Lab #4](https://colab.research.google.com/drive/1zYvyhrz2wVnJXlZqj_PpxOxplfS3LN9Y?usp=sharing)
-<!--
-[Lab #5](https://colab.research.google.com/drive/1rJRIIInVtzyxwtDAyan7_9BarmKXWgFm?usp=sharing)
 
+[Lab #5](https://colab.research.google.com/drive/1rJRIIInVtzyxwtDAyan7_9BarmKXWgFm?usp=sharing)
+<!--
 -->
 
 ## Midterm Project
