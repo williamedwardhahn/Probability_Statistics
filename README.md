@@ -17,6 +17,8 @@
 
 [How to Resize Images](https://youtube.com/shorts/_io-NzBaSpU?feature=share)
 
+[How to Hide an Image in Python](https://youtube.com/shorts/0yJWcarSRB4?feature=share)
+
 
 ## Lab Reports
 
