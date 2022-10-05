@@ -30,10 +30,13 @@
 
 [Lab #4](https://colab.research.google.com/drive/1SyGqBZTObglE00w2oNYpGPPX6oa9LfiM?usp=sharing)
 
-<!--
+[Galton Board](https://colab.research.google.com/drive/1SLl_EQjhfkzDfYfPxIuolVupBo81yTSw?usp=sharing)
+
 [Lab #5](https://colab.research.google.com/drive/1zYvyhrz2wVnJXlZqj_PpxOxplfS3LN9Y?usp=sharing)
 
 [Lab #6](https://colab.research.google.com/drive/1rJRIIInVtzyxwtDAyan7_9BarmKXWgFm?usp=sharing)
+
+<!--
 
 -->
 
