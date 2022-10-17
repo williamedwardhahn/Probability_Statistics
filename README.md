@@ -36,6 +36,8 @@
 
 [Lab #6](https://colab.research.google.com/drive/1Tlt-6YHoDWSHr09QgAw-a4N0C514hsfv?usp=sharing)
 
+[Linear Fit](https://colab.research.google.com/drive/1YnY_v49JTauXvGrPWN5hbEGCDJgbZHkj?usp=sharing)
+
 <!--
 
 [Lab #6](https://colab.research.google.com/drive/1rJRIIInVtzyxwtDAyan7_9BarmKXWgFm?usp=sharing)
