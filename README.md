@@ -40,6 +40,8 @@
 
 [Midterm](https://colab.research.google.com/drive/1DkKEPTBXCTpGxFZTETEvXitXVyDovAl5)
 
+[Class Midterm](https://colab.research.google.com/drive/1xepx0C4c8-Er-rbfbQWelSSAk7JMARph?usp=sharing)
+
 [Data Science](https://colab.research.google.com/drive/1yaQ8ejgOtTnTKA49USqSdfyO4yIHmxHf?usp=sharing)
 
 <!--
