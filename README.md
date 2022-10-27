@@ -38,7 +38,9 @@
 
 [Linear Fit](https://colab.research.google.com/drive/1YnY_v49JTauXvGrPWN5hbEGCDJgbZHkj?usp=sharing)
 
-[Secret Life Of Machines - The Word Processor](https://www.youtube.com/watch?v=nN9wNvEnn-Q)
+[Midterm](https://colab.research.google.com/drive/1DkKEPTBXCTpGxFZTETEvXitXVyDovAl5)
+
+[Data Science](https://colab.research.google.com/drive/1yaQ8ejgOtTnTKA49USqSdfyO4yIHmxHf?usp=sharing)
 
 <!--
 
