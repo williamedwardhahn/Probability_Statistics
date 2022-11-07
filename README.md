@@ -44,6 +44,8 @@
 
 [Data Science](https://colab.research.google.com/drive/1yaQ8ejgOtTnTKA49USqSdfyO4yIHmxHf?usp=sharing)
 
+[Lab #7 Age of Universe](https://colab.research.google.com/drive/1qYvM0d9Dj7TkJN3bM0uljq5TS1D_0IJH?usp=sharing)
+
 <!--
 
 [Lab #6](https://colab.research.google.com/drive/1rJRIIInVtzyxwtDAyan7_9BarmKXWgFm?usp=sharing)
