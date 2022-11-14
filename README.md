@@ -44,7 +44,9 @@
 
 [Data Science](https://colab.research.google.com/drive/1yaQ8ejgOtTnTKA49USqSdfyO4yIHmxHf?usp=sharing)
 
-[Lab #7 Age of Universe](https://colab.research.google.com/drive/1qYvM0d9Dj7TkJN3bM0uljq5TS1D_0IJH?usp=sharing)
+[Lab #7 Linear Regression - Age of Universe](https://colab.research.google.com/drive/1qYvM0d9Dj7TkJN3bM0uljq5TS1D_0IJH?usp=sharing)
+
+[Lab #8 Linear Classifier](https://colab.research.google.com/drive/1GJhTRCAph3LwfIBJHDvNoMo7I84oxi6z?usp=sharing)
 
 <!--
 
