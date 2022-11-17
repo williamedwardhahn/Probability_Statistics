@@ -57,6 +57,8 @@
 
 [Demo 4](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
 
+[Zoom Link](https://fau-edu.zoom.us/j/84643872215?pwd=d3crVXpRWDVPdHI2eFNaWXVaL1l3dz09)
+
 
 <!--
 
