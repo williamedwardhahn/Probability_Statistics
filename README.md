@@ -48,6 +48,16 @@
 
 [Lab #8 Linear Classifier](https://colab.research.google.com/drive/1GJhTRCAph3LwfIBJHDvNoMo7I84oxi6z?usp=sharing)
 
+
+[Demo 1](https://playground.tensorflow.org/)
+
+[Demo 2](https://tensorspace.org/)
+
+[Demo 3](https://mco-mnist-draw-rwpxka3zaa-ue.a.run.app/)
+
+[Demo 4](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
+
+
 <!--
 
 [Lab #6](https://colab.research.google.com/drive/1rJRIIInVtzyxwtDAyan7_9BarmKXWgFm?usp=sharing)
