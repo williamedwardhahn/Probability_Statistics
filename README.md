@@ -65,12 +65,7 @@
 [Lab #6](https://colab.research.google.com/drive/1rJRIIInVtzyxwtDAyan7_9BarmKXWgFm?usp=sharing)
 -->
 
-## Midterm Project
 
-## Final Project
-
-
-## References
 
 <!--https://www.fourmilab.ch/rpkp/experiments/statistics.html-->
 
