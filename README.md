@@ -48,6 +48,9 @@
 
 [Lab #8 Linear Classifier](https://colab.research.google.com/drive/1GJhTRCAph3LwfIBJHDvNoMo7I84oxi6z?usp=sharing)
 
+[Lab #9 Linear Generator](https://colab.research.google.com/drive/1Z3oYBjlsjrvn21u1QzPMjzevOZtzgAI_?usp=sharing)
+
+<!--
 
 [Demo 1](https://playground.tensorflow.org/)
 
@@ -60,7 +63,7 @@
 [Zoom Link](https://fau-edu.zoom.us/j/84643872215?pwd=d3crVXpRWDVPdHI2eFNaWXVaL1l3dz09)
 
 
-<!--
+
 
 [Lab #6](https://colab.research.google.com/drive/1rJRIIInVtzyxwtDAyan7_9BarmKXWgFm?usp=sharing)
 -->
