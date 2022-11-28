@@ -50,6 +50,8 @@
 
 [Lab #9 Linear Generator](https://colab.research.google.com/drive/1Z3oYBjlsjrvn21u1QzPMjzevOZtzgAI_?usp=sharing)
 
+[Lab #10 Linear Model Image Dataset](https://colab.research.google.com/drive/1XXCVJET5r36E8zf7jJSrHPf8egu8I_na?usp=sharing)
+
 <!--
 
 [Demo 1](https://playground.tensorflow.org/)
@@ -66,6 +68,9 @@
 
 
 [Lab #6](https://colab.research.google.com/drive/1rJRIIInVtzyxwtDAyan7_9BarmKXWgFm?usp=sharing)
+
+
+
 -->
 
 
