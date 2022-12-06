@@ -52,6 +52,8 @@
 
 [Lab #10 Linear Model Image Dataset](https://colab.research.google.com/drive/1XXCVJET5r36E8zf7jJSrHPf8egu8I_na?usp=sharing)
 
+[Final Project](https://colab.research.google.com/drive/1a0yHJvozOTpbrsPrB-_9W8cXD7sck4JB?usp=sharing)
+
 <!--
 
 [Demo 1](https://playground.tensorflow.org/)
